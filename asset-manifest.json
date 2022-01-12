@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-4-color-changer/static/css/main.a4dd04db.css",
+    "main.js": "/sprint-4-color-changer/static/js/main.7ab6d012.js",
+    "static/js/787.1eaf83d2.chunk.js": "/sprint-4-color-changer/static/js/787.1eaf83d2.chunk.js",
+    "index.html": "/sprint-4-color-changer/index.html",
+    "main.a4dd04db.css.map": "/sprint-4-color-changer/static/css/main.a4dd04db.css.map",
+    "main.7ab6d012.js.map": "/sprint-4-color-changer/static/js/main.7ab6d012.js.map",
+    "787.1eaf83d2.chunk.js.map": "/sprint-4-color-changer/static/js/787.1eaf83d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4dd04db.css",
+    "static/js/main.7ab6d012.js"
+  ]
+}
