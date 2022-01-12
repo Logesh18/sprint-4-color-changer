@@ -1,0 +1,35 @@
+#dropdownWrapper{
+    display:inline-block;
+    border:none;
+    margin-left:50px;
+}
+#dropdownContainer{
+    border:none;
+    width:200px;
+    height:30px;
+    margin:10px;
+    padding:5px 0 0 15px;
+    background-color: rgb(180, 180, 180);
+    box-shadow: 4px 5px 5px rgb(184, 184, 184);
+}
+#block{
+    border:none;
+    display:none;
+    margin:-2px 10px 10px 10px;
+    width:214px;
+}
+#option{
+    padding-left:15px;
+    width:214px;
+    text-align: left;
+    padding:8px 0 8px 15px;
+    border:none;
+    background-color: rgb(180, 180, 180);
+}
+#option:hover{
+    background-color:rgb(201, 201, 201);
+}
+#caret{
+    font-size: 20px;
+    padding:0px 0 0 10px;
+}

@@ -1,25 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Dropdown from 'src/Components/Dropdown/Dropdown.js';
+import ColorChanger from 'src/Components/ColorChanger/ColorChanger.js';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <center><p>Color Changer</p></center>
+      <div className="row">
+          <div>
+              <Dropdown/>
+          </div>
+          <div>
+              <ColorChanger/>
+          </div>
+      </div>     
     </div>
-  );
+  ); 
 }
 
 export default App;
